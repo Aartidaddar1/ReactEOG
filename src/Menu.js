@@ -102,4 +102,4 @@ export default() => (
   <ApolloProvider client={client}>
     <Menu />
   </ApolloProvider>
-);
+)
